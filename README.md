@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Basel
 - 👀 I’m interested in Python, VBA, Website development, data analysis
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on...
+- 💞️ I’m looking to collaborate on Power platform
 - 📫 How to reach me basel.seem@gmail.com
 
 <!---
